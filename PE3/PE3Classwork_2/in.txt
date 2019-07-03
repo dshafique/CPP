@@ -1,0 +1,5 @@
+ticketPrice numberOfTicketSold
+20           5
+100          2
+50           6
+25           1

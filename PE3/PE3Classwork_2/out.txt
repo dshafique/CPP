@@ -1,0 +1,5 @@
+number of tickets sold : 5 revenue 100.00
+number of tickets sold : 2 revenue 200.00
+number of tickets sold : 6 revenue 300.00
+number of tickets sold : 1 revenue 25.00
+Total revenue : 625.00

@@ -1,0 +1,5 @@
+number of tickets sold : 5750 revenue 1437500.00
+number of tickets sold : 28000 revenue 2800000.00
+number of tickets sold : 35750 revenue 1787500.00
+number of tickets sold : 18750 revenue 4687500.00
+Total revenue : 10712500.00
