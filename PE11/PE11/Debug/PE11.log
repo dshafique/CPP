@@ -1,0 +1,6 @@
+﻿  PE11.cpp
+c:\users\daoud\documents\visual studio 2015\projects\pe 10\pe 10\pe11.h(52): warning C4101: 'minutes2': unreferenced local variable
+c:\users\daoud\documents\visual studio 2015\projects\pe 10\pe 10\pe11.h(52): warning C4101: 'seconds2': unreferenced local variable
+c:\users\daoud\documents\visual studio 2015\projects\pe 10\pe 10\pe11.h(52): warning C4101: 'hours2': unreferenced local variable
+  PE11.vcxproj -> C:\Users\Daoud\Documents\Visual Studio 2015\Projects\PE11\Debug\PE11.exe
+  PE11.vcxproj -> C:\Users\Daoud\Documents\Visual Studio 2015\Projects\PE11\Debug\PE11.pdb (Partial PDB)
