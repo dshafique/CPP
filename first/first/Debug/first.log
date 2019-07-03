@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\daoud\documents\visual studio 2015\projects\first\first\main.cpp(9): warning C4101: 'IndividualNumber': unreferenced local variable
+  first.vcxproj -> c:\users\daoud\documents\visual studio 2015\Projects\first\Debug\first.exe

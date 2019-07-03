@@ -1,0 +1,16 @@
+﻿  testNL.cpp
+c:\users\daoud\desktop\66\testnl.cpp : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+c:\users\daoud\desktop\66\testnl.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\daoud\desktop\66\numberlist.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\daoud\desktop\66\numberlist.h(2): fatal error C1070: mismatched #if/#endif pair in file 'c:\users\daoud\desktop\66\numberlist.h'
+  myTestNL.cpp
+c:\users\daoud\desktop\66\mytestnl.cpp : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+c:\users\daoud\desktop\66\mytestnl.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\daoud\desktop\66\numberlist.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\daoud\desktop\66\numberlist.h(2): fatal error C1070: mismatched #if/#endif pair in file 'c:\users\daoud\desktop\66\numberlist.h'
+  NumberList.cpp
+c:\users\daoud\desktop\66\numberlist.cpp : warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+c:\users\daoud\desktop\66\numberlist.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\daoud\desktop\66\numberlist.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\daoud\desktop\66\numberlist.h(2): fatal error C1070: mismatched #if/#endif pair in file 'c:\users\daoud\desktop\66\numberlist.h'
+  Generating Code...
